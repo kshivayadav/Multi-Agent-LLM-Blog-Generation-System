@@ -202,8 +202,8 @@ Multi-Agent-LLM-Blog-System/
 ```bash
 1️⃣ Clone Repository
 
-git clone https://github.com/kshivayadav/multi-agent-llm-blog-system.git
-cd multi-agent-llm-blog-system
+git clone https://github.com/kshivayadav/Multi-Agent-LLM-Blog-Generation-System.git
+cd Blog_Writer
 
 2️⃣ Create Virtual Environment
 
